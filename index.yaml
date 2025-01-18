@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  knoperator:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-18T20:16:53.370391419Z"
+    description: A Helm chart for Kubernetes
+    digest: b0ddb357e985b0cd0947ab232c3edd0dfed0ab8088a0e0d522244281280545fd
+    name: knoperator
+    type: application
+    urls:
+    - https://github.com/fsedano/helmcharts/releases/download/knoperator-0.1.0/knoperator-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-18T20:16:53.370400596Z"
