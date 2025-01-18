@@ -22,4 +22,15 @@ entries:
     urls:
     - https://github.com/fsedano/helmcharts/releases/download/knoperator-0.1.0/knoperator-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-18T20:38:37.551121121Z"
+  knserving:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-18T20:42:10.776928224Z"
+    description: A Helm chart for Kubernetes
+    digest: 2b1a3d5f9ba83c3fd56907c85a6ed059b663f931232b3e0a6f47001e4036406f
+    name: knserving
+    type: application
+    urls:
+    - https://github.com/fsedano/helmcharts/releases/download/knserving-0.1.0/knserving-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-18T20:42:10.776943283Z"
